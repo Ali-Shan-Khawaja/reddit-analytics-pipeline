@@ -1,6 +1,8 @@
 .env
 .pem
 
+.ipynb_checkpoints/
+
 # Ignore all contents in data folders
 
 data/DW_cache/*
