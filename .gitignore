@@ -1,0 +1,11 @@
+.env
+.pem
+
+# Ignore all contents in data folders
+
+data/DW_cache/*
+!data/DW_cache/.gitkeep
+data/partitions/*
+!data/partitions/.gitkeep
+data/raw/*
+!data/raw/.gitkeep
