@@ -2,6 +2,7 @@
 .pem
 
 .ipynb_checkpoints/
+Reddit_Comments_Analysis_source.pbix
 
 # Ignore all contents in data folders
 
