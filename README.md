@@ -16,6 +16,17 @@ An end-to-end PySpark ETL pipeline that processes Reddit comment data from CSV f
 
 ---
 
+## 🗂️ Data Source
+
+This project uses public Reddit comment data from May 2015, available on Kaggle:
+
+🔗 Reddit Comments - May 2015 Dataset (https://www.kaggle.com/datasets/kaggle/reddit-comments-may-2015)
+
+- Over 160 million Reddit comments
+- Provided as a single sqlite file
+- Source: Pushshift Reddit dataset via Kaggle
+---
+
 ## 📂 Project Structure
 
 ```
